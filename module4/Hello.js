@@ -1,3 +1,4 @@
+
 (function(window) {
 	var speakWord = "Hello";
 	var helloSpeaker = function (name) {
@@ -7,3 +8,4 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
+
